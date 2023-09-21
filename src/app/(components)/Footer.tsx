@@ -18,7 +18,7 @@ function Footer({}: Props) {
           </a>
           <span className='block text-sm text-gray-500 sm:text-center dark:text-gray-400'>
           © {new Date().getFullYear()}
-          <a href='' className='hover:underline'>
+          <a href='https://github.com/incredible-phoenix246/hngx_stage3.git' className='hover:underline'>
             Copyright Phoenix
           </a>
           
