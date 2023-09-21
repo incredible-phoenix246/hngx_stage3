@@ -147,12 +147,12 @@ const Login = (props: Props) => {
                 </button>
               </form>
                 <p className='text-sm font-light text-gray-500 dark:text-gray-400'>
-                Contact me {" "}
+                Check Out the  {" "}
                 <Link
                   href='https://github.com/incredible-phoenix246/hngx_stage3.git'
                   className='font-medium text-primary-600 hover:underline dark:text-primary-500'
                 >
-                  github repo
+                  Github repo
                 </Link>
               </p>
             </div>
